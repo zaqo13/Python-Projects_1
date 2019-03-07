@@ -1,0 +1,5 @@
+input- any word
+output- meaning of that word
+
+dict_data.json == word and their meaning are stored in this json file
+

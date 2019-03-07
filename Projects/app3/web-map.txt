@@ -1,0 +1,15 @@
+Webmap with different layers discribing the data provided by world.json and volcanoes.csv
+
+
+module used- folium,os, pandas
+
+key points- folium.FeatureGroup, foilum.Map, map.add_child
+	   fg.add_child(popup,location,radius,fill_color,fill_opacity,tooltip)
+
+input- Volcanoes_USA.csv, world.json
+output- Webmap with different layers discribing the data provided by world.json and volcanoes.csv
+
+world.json== here we can find population of different region of all over world.
+
+Volcanoes_USA.csv== here we can find details about vocanoes in USA
+	  details=  Number,Name,Location,Status,Elevation,Type,Lat,Lon,etc 

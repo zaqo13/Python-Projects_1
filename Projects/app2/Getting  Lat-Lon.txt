@@ -1,0 +1,8 @@
+Creating Lattitude and Longitude using postal address of that point\area
+
+input- full address
+output- Lattitude and Longitude of that address
+
+Module used- pandas, geopy.geocoders, Nominatim, etc
+
+Key Points- lamnda, Nominatim, paandas, .apply,

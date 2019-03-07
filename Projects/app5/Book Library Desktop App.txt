@@ -1,0 +1,22 @@
+we can add multiple books info one by one
+
+info stored- Title, Year, Auther, ISBN, etc
+
+Additional widget- Interactive Dictionary- 
+		   	Here we can search the meaning of any word present in data.json file, given in folder
+
+
+Module used- tkinter, sqlite3, json, difflib, etc
+
+key point- same app with Object Oriented Programming style and without OOP style
+	   Class, Inheritance, etc
+
+Note- After installing the app, one .db file is generated, if you delete that file all your books info will gone.
+	So make sure that you back-up that .db file.
+
+
+Still there are many improvements....
+
+If there are any suggestion?
+
+Until next time....
